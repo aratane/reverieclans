@@ -3505,7 +3505,7 @@ Live Stream Area CSS
 .live-stream-area {
   position: relative;
   z-index: 1;
-  background-image: url(../../assets/img/banner/revelive.png);
+  background-image: url(../../assets/img/banner/revelive.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3775,7 +3775,7 @@ Awards Area CSS
 .awards-area {
   position: relative;
   z-index: 1;
-  background-image: url(../../assets/img/banner/revelive.png);
+  background-image: url(../../assets/img/banner/revelove.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6221,7 +6221,7 @@ Partner Area CSS
 }
 
 .partner-area.bg-image {
-  background-image: url(../../assets/img/banner/revelive.png);
+  background-image: url(../../assets/img/banner/revelove.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6548,7 +6548,7 @@ Subscribe Area CSS
   text-align: center;
   padding-left: 100px;
   padding-right: 100px;
-  background-image: url(../../assets/img/subscribe-bg.jpg);
+  background-image: url(../../assets/img/banner/revemun.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
